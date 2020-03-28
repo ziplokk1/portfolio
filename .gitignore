@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# secret shit
+**/*.creds.*
+**/*.secret.*
