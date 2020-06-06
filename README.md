@@ -1,5 +1,10 @@
 # portfolio
 
+
+Ironic that I got a job before I 
+even had time to work on this.
+
+
 ## Project setup
 ```
 npm install
